@@ -1,14 +1,14 @@
 {
-	"core_tray_change_wallpaper" : "Vaheta tapeet",
+	"core_tray_change_wallpaper" : "Vaheta taust",
 	"core_tray_browse_workshop" : "Ava Workshop",
-	"core_tray_create_wallpaper" : "looa tapeed",
+	"core_tray_create_wallpaper" : "Loo taust",
 	"core_tray_settings" : "Seaded",
-	"core_tray_take_screenshot" : "Tee ekraanipilt",
-	"core_tray_pause" : "paus",
-	"core_tray_unpause" : "uuesti",
-	"core_tray_recent_wallpapers" : "Viimased tapeedid",
-	"core_tray_quit" : "väljund",
+	"core_tray_take_screenshot" : "Kuvatõmmis",
+	"core_tray_pause" : "Paus",
+	"core_tray_unpause" : "Jätka",
+	"core_tray_recent_wallpapers" : "Viimased taustad",
+	"core_tray_quit" : "Välju",
 	"core_tray_faq" : "Abi ja KKK",
 	"core_tray_recent_wallpapers_clear" : "Kustuta loetelu",
-	"core_tray_next_wallpaper" : "Järgmine tapeet"
+	"core_tray_next_wallpaper" : "Järgmine taust"
 }
